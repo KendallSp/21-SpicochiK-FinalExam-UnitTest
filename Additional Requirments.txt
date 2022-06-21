@@ -1,0 +1,4 @@
+Required Tasks
+
+1.Extending the add method for StringCalculator class to cover the new requirements above
+2.Write an entire Test class that focuses only on testing the new requirements (Extended Functionalities)
